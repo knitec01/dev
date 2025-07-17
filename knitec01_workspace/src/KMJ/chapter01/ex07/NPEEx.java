@@ -1,7 +1,7 @@
 package KMJ.chapter01.ex07;
 
 /*
-* 데이터
+* 데이터 타입
 * 1. 기본 타입
 *    1) 정수
 *       byte, short, char, int, long
