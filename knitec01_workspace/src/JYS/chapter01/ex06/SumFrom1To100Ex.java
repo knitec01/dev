@@ -5,8 +5,7 @@ public class SumFrom1To100Ex {
         int sum = 0;
         int i;
 
-        // for(초기식; 조건식; 증감식){ }의 형태
-        for(i = 1; i<100; i++){
+        for(i=1;i<100;i++){
             // sum = sum + i;
             sum += i;
         }
