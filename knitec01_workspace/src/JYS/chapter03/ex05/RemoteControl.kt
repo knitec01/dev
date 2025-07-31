@@ -12,6 +12,7 @@ public interface RemoteControl {
         if(mute){
             System.out.println("무음 처리");
             System.out.println("MIN_VOLUME");
+            System.out.println("MIN_VOLUME2");
 
         }
         else{
