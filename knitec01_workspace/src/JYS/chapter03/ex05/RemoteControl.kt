@@ -3,7 +3,7 @@ package JYS.chapter03.ex05
 public interface RemoteControl {
     int MAX_VOLUME = 20;
     int MIN_VOLUME = 0;
-/////
+//
     void turnOn();
     void turnOff();
     void setVolumn(int volume);
